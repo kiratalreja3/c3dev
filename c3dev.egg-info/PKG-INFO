@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: c3dev
+Version: 0.1
+Summary: c3dev
+Home-page: UNKNOWN
+Author: Gavin Huttley
+Author-email: gavin.huttley@anu.edu.au
+License: BSD
+Keywords: biology,genomics,genetics,statistics,evolution,bioinformatics
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Operating System :: OS Independent
+
+c3dev
+tools to assist in development of PyCogent3
+Version 0.1.
+
+

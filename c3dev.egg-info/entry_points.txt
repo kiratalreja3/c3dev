@@ -1,0 +1,10 @@
+[console_scripts]
+c3dev_config = c3dev.devconfig:main
+check_test_inclusion = c3dev.included_tests:main
+check_test_integrity = c3dev.integrity_tests:main
+cleanup = c3dev.cleanup:main
+jlab_start = c3dev.jlab:main
+move_merc = c3dev.relocate_mercurial:main
+revert_c = c3dev.revert_c:main
+update_version = c3dev.update_version:main
+
